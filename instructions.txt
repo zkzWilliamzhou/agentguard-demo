@@ -1,0 +1,3 @@
+This is an incorrectly named instruction file.
+It should be named AGENTS.md to be loaded by AI agents.
+This demonstrates a common mistake that AgentGuard can detect.
